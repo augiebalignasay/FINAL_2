@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 29 Oct 2024 23:32:46 at https://www.11-76.com/themes/runex/index-VIMEO-VIDEO-DARK.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.11-76.com/themes/runex/index-VIMEO-VIDEO-DARK.html -O1 "C:\My Web Sites\FINAL_2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:33:06	Error: 	"Not Found" (404) at link https://www.11-76.com/themes/runex/fonts/glyphicons-halflings-regular.eot (from https://www.11-76.com/themes/runex/css/plugins.css)
+23:33:06	Error: 	"Not Found" (404) at link https://www.11-76.com/themes/runex/fonts/glyphicons-halflings-regular.eot? (from https://www.11-76.com/themes/runex/css/plugins.css)
+23:33:06	Error: 	"Not Found" (404) at link https://www.11-76.com/themes/runex/fonts/glyphicons-halflings-regular.woff2 (from https://www.11-76.com/themes/runex/css/plugins.css)
+23:33:06	Error: 	"Not Found" (404) at link https://www.11-76.com/themes/runex/fonts/glyphicons-halflings-regular.woff (from https://www.11-76.com/themes/runex/css/plugins.css)
+23:33:06	Error: 	"Not Found" (404) at link https://www.11-76.com/themes/runex/fonts/glyphicons-halflings-regular.ttf (from https://www.11-76.com/themes/runex/css/plugins.css)
+23:33:06	Error: 	"Not Found" (404) at link https://www.11-76.com/themes/runex/fonts/glyphicons-halflings-regular.svg (from https://www.11-76.com/themes/runex/css/plugins.css)
+23:33:07	Error: 	"Not Found" (404) at link https://www.11-76.com/themes/runex/css/owl.video.play.png (from https://www.11-76.com/themes/runex/css/plugins.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 78 links scanned, 70 files written (16635954 bytes overall) [16500554 bytes received at 785740 bytes/sec], 203187 bytes transferred using HTTP compression in 9 files, ratio 16%, 26.0 requests per connection
+(7 errors, 0 warnings, 0 messages)
